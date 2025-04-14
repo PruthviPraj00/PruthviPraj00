@@ -1,6 +1,9 @@
-# 🚀 Hey, I'm Pruthvi!  
+# 🚀 Hey, I'm Pruthvi
+
 
 **Welcome to my digital playground, where I:**  
+Let’s build, break, and innovate together!
+
 ✅ Open-source cool stuff  
 ✅ Break things (for science, of course 😆)  
 ✅ Build powerful AI productivity tools  
@@ -50,6 +53,3 @@ I could list them all… but wouldn’t it be more fun if you followed me on [**
 
 ---
 
-### 🚀 **Let’s build, break, and innovate together!**  
-
-This version has a **more fun, engaging, and friendly tone**, making it feel more personal while keeping the important details. 🚀 Let me know if you want any refinements!
