@@ -18,7 +18,10 @@ Let’s build, break, and innovate together!
 🎨 **Dracula Theme Fan** | ⚡ Lazy but ultra-productive  
 
 ### 🚀 What I'm Building  
-🔹  AI coding frontend agent for FlyonUI.  
+🔹  AI Image/Video Generator App
+
+### Done 
+FlyonUI MCP
 
 ---
 
